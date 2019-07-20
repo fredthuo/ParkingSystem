@@ -1,0 +1,23 @@
+<application>
+  <component name="libraryTable">
+    <library name="Parking">
+      <ANNOTATIONS>
+        <root url="file://$USER_HOME$/IdeaProjects/Parking" />
+      </ANNOTATIONS>
+      <CLASSES>
+        <root url="file://$USER_HOME$/IdeaProjects/Parking" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://$USER_HOME$/IdeaProjects/Parking" />
+      </JAVADOC>
+      <NATIVE>
+        <root url="file://$USER_HOME$/IdeaProjects/Parking" />
+      </NATIVE>
+      <SOURCES>
+        <root url="file://$USER_HOME$/IdeaProjects/Parking" />
+      </SOURCES>
+      <jarDirectory url="file://$USER_HOME$/IdeaProjects/Parking" recursive="false" />
+      <jarDirectory url="file://$USER_HOME$/IdeaProjects/Parking" recursive="false" type="SOURCES" />
+    </library>
+  </component>
+</application>
